@@ -14,6 +14,8 @@ public class Test {
 		
 		BasePage bp2=new BasePage();
 		bp2.init_driver(prop);
+			System.out.println();
+
 		
 	}
 
