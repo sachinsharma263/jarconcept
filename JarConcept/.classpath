@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/March2021POMSeries/target/March2021POMSeries-0.0.1-SNAPSHOT.jar" sourcepath="/March2021POMSeries"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/June2022POMSeries/target/June2022POMSeries-0.0.2-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
